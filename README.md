@@ -1,0 +1,1 @@
+<a href="http://klcohen.com" target="_blank"><img src="http://www.korenlc.com/wp-content/uploads/2014/10/cropped-header3.png"></a>
