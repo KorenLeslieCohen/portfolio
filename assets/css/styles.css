@@ -25,6 +25,10 @@ a:focus,
 	outline: none;
 }
 
+.img-responsive {
+    border: 1px solid #ddd;
+}
+
 /*-----------------------
 ----- Typo Styles ------
 -------------------------*/
